@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @clarissa-teng
+- 👋 Hi, I’m @clarissa-teng, a freelance UX Designer
 - 👀 I’m interested in front-end development and interaction design!
 - 🌱 I’m currently learning front-end development through The Odin Project. 
-- 📫 clari.teng@gmail.com
+- 📫 Email: clari.teng@gmail.com
+- 📒 Portfolio: https://www.clarissateng.com/
