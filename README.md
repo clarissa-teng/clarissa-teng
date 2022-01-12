@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @clarissa-teng
+- 👀 I’m interested in front-end development and interaction design!
+- 🌱 I’m currently learning front-end development through The Odin Project. 
+- 📫 clari.teng@gmail.com
